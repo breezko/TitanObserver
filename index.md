@@ -12,7 +12,7 @@ It was written in C#.
 ## Features
 * Automatically recover from Emulator and/or Bot stucks
 * Force a bot restart if no log activity has been detected for a period of time
-* New features are being developed all the time - if you have suggestions please feel free to DM me on [Discord](https://discord.gg/QwhNYhS)
+* New features are being developed all the time - if you have suggestions or questions please feel free to DM me on [Discord](https://discord.gg/QwhNYhS)
 
 * * *
 
@@ -23,5 +23,5 @@ It was written in C#.
 # Usage
 
 * Run `Titandash.exe`
-* Set up your config 
+* Set up your config and save.
 * Start

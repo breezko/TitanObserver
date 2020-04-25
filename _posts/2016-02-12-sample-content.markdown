@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "Requirements"
 date:   2020-04-25 19:34:00
 categories: main

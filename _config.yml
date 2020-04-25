@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: TitanObserver
 description: Bot Scheduling and Crash Recovery
+show_downloads: true

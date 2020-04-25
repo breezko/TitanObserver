@@ -2,3 +2,6 @@ theme: jekyll-theme-cayman
 title: TitanObserver
 description: Bot Scheduling and Crash Recovery
 show_downloads: true
+github:
+  exe_url: https://github.com/breezko/titanobserver/releases/download/v0.0.1-beta/TitanObserver.exe
+  zip_url: https://github.com/breezko/titanobserver/archive/v0.0.1-beta.zip

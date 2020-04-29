@@ -3,5 +3,4 @@ title: TitanObserver
 description: Bot Scheduling and Crash Recovery
 show_downloads: true
 github:
-  exe_url: https://github.com/breezko/titanobserver/releases/download/v0.0.1-alpha/TitanObserver.exe
-  zip_url: https://github.com/breezko/titanobserver/archivev/0.0.1-alpha.zip
+  zip_url: https://github.com/breezko/titanobserver/releases/download/v0.0.3-alpha/build.zip
